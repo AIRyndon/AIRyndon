@@ -6,8 +6,6 @@
 
 ## 🧰 Used at Work
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
@@ -22,6 +20,7 @@
 ## 🧰 Used in School
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/opengl/opengl.png"></code>
 
@@ -31,9 +30,4 @@
 -  I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
-
-<!---
-AIRyndon/AIRyndon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
