@@ -6,6 +6,7 @@
 
 ## 🧰 Used at Work
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
