@@ -1,4 +1,4 @@
-👋 Hello! I’m Angelo, a final year student 🎓. Here's my [personal site][1] if you are interested.
+👋 Hello! I’m Angelo, a final year student 🎓. Here's my [personal site][1] if you are interested to 👀.
 
 ## 🌱 Currently Learning
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
@@ -32,7 +32,7 @@
 <br>
 <br>
 
-[1]:https://angeloryndon.com
+[1]: https://angeloryndon.com
 <!---
 - 👀 I’m interested in ...
 -  I’m currently learning ...
