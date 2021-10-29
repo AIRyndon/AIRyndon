@@ -1,7 +1,7 @@
 👋 Hello! I’m Angelo, a final year student 🎓. Here's my [personal site][1] if you are interested to 👀.
 
 ## 🌱 Currently Learning
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<!-- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> -->
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
 <br>
 <br>
