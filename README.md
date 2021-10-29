@@ -1,8 +1,10 @@
-👋 Hello! I’m Angelo, a final year student 🎓. Here's my [personal site][1] if you are interested to 👀.
+👋 Hello! I’m Angelo, a fullstack software developer. Here's my [personal site][1] if you are interested to 👀.
 
 ## 🌱 Currently Learning
 <!-- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> -->
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
+<br>
+<code>Angular</code>
 <br>
 <br>
 ## 🧰 Used at Work
@@ -19,7 +21,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
-<br>
 <br>
 
 ## 🧰 Used in School
@@ -38,4 +39,5 @@
 -  I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- a final year student 🎓
 --->
