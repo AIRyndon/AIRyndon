@@ -4,8 +4,6 @@
 <!-- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> -->
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
 <br>
-<code>Angular</code>
-<br>
 <br>
 ## 🧰 Used at Work
 
@@ -22,9 +20,10 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
 <br>
+<br>
 
 ## 🧰 Used in School
-
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
