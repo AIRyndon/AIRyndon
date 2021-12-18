@@ -1,7 +1,7 @@
 👋 Hello! I’m Angelo, I love solving problems and making solutions. Here's my [personal site][1] if you are interested to 👀.
 
-## 🌱 Currently Learning
-<code><img height="50" title="Angular" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
+<!-- ## 🌱 Currently Learning
+<code><img height="50" title="Angular" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code> -->
 <br>
 <br>
 ## 🧰 Used at Work
