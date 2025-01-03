@@ -1,4 +1,4 @@
-👋 Hello! I’m Angelo, I love solving problems and making solutions. I work as a Fullstack Developer, though I also do Game Development during my free time. My long term technical goal is to be competent in building solutions using XR technologies. Here's my [personal site][1] if you are interested to 👀.
+👋 Hello! I’m Angelo, I love solving problems and making solutions. I work as a Fullstack Developer, here's my [personal site][1] if you are interested to 👀.
 
 <!-- ## 🌱 Currently Learning
 <code><img height="50" title="Angular" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code> 
